@@ -1,0 +1,276 @@
+[
+  {
+    "id": 1,
+    "name": "Chef Ahmed",
+    "image": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "experience": 15,
+    "total_recipes": 9,
+    "likes": 1000,
+    "description": "Ahmed is an enthusiastic devotee of authentic Bangladeshi cuisine who learned to cook on his own. owner of multiple successful restaurants who has received numerous industry awards for his work. He has written several cookbooks and is a co-founder of the International Bangladeshi Chef of the Year competition. Ahmed is well-known for his innovative fusion cuisine, which combines classic Bangladeshi flavors with cutting-edge techniques.",
+    "recipe_name1": "Fish curry",
+    "ingredients1": [
+      "1 lb fish fillet",
+      "1 onion (chopped)",
+      "2 garlic cloves (minced)",
+      "1 tsp turmeric powder",
+      "1 tsp cumin powder",
+      "Salt and pepper to taste"
+    ],
+    "method1": "Sauté chopped onions in oil until transparent. Fry minced garlic, grated ginger, and slit green chilli in the pan until the raw smell vanishes. Mix cumin, coriander, turmeric, and red chilli powder in the pan. Boil water in the pan. Carefully add the fish pieces to the gravy and cook for 5-7 minutes on low heat until soft and cooked through. After turning off the heat, garnish with fresh coriander leaves. Hot rice.",
+    "rating1": 4.5,
+
+    "recipe_name2": "Chicken biryani",
+    "ingredients2": [
+      "1 lb chicken, cut into pieces",
+      "2 cups basmati rice",
+      "1 onion sliced, garam masala",
+      "1 tbsp ginger paste and garlic paste",
+      "1 tbsp coriander powder",
+      "4 cups water, salt to taste"
+    ],
+    "method2": "30 minutes of soaking two cups of basmati rice. Add one sliced onion to medium-heated oil. Add one tablespoon of ginger and garlic paste after sautéing till golden brown. Brown one pound of chicken pieces. Add 1 teaspoon cumin, 1 tablespoon coriander powder, and 1 teaspoon of garam masala. Mix in the drained rice. Bring four cups of water to a boil, then simmer for 20 minutes until the rice is done. Taste salt.",
+    "rating2": 4.8,
+
+    "recipe_name3": "Beef kebab",
+    "ingredients3": [
+      "1 lb ground beef",
+      "1 onion grated",
+      "1 tsp garlic and ginger paste",
+      "1 tsp cumin powder",
+      "1 tsp coriander powder",
+      "salt and pepper to taste"
+    ],
+    "method3": "Prepare a grill for high heat by preheating it. Combine one pound of ground beef, one grated onion, ginger paste, garlic paste, cumin powder, coriander powder, salt, and pepper in a bowl and mix well. After forming the mixture into tiny patties or balls, set them on the grill and cook them for approximately 5-7 minutes per side, or until they are fully cooked through. To be served hot with salad and sauce.",
+    "rating3": 4.2
+  },
+
+  {
+    "id": 2,
+    "name": "Chef Fatima",
+    "image": "https://images.pexels.com/photos/6578899/pexels-photo-6578899.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "experience": 9,
+    "total_recipes": 4,
+    "likes": 500,
+    "description": "Fatima, originally from Bangladesh, has established himself as one of the best chefs in the Bangladesh region. She has extensive experience in the kitchen and focuses on vegetarian cuisine. She also works at a number of other popular eateries throughout the world. Kochhar has become well-known for her groundbreaking contributions to modern Dhaka cuisine, which combine classic ingredients with cutting-edge techniques.",
+
+    "recipe_name1": "Malai Kari",
+    "ingredients1": [
+      "1 can drained and rinsed prawn",
+      "1 onion (chopped), 2 garlic cloves (minced)",
+      "1 tsp ginger paste",
+      "1 tsp cumin, garam masala and mustard oil",
+      "1 tsp coriander powder",
+      "1/4 cup chopped cilantro"
+    ],
+    "method1": "Medium-heat oil. Chopped onions. Garlic with ginger. Stir occasionally for 1 to 2 minutes. Cumin, coriander, and turmeric. Stir and cook another minute. Stir prawns in the spice mixture. Cook prawns for 2-3 minutes till pink. Mix in coconut milk. Taste with salt. The sauce should thicken after 8 to 10 minutes of simmering. Add prawns to the pan and stir well to coat them with the spice mixture. Server with rice and favorite salad.",
+    "rating1": 4.7,
+
+    "recipe_name2": "Vegetable biryani",
+    "ingredients2": [
+      "2 cups basmati rice",
+      "1 small cauliflower, 1 onion, chopped",
+      "1/2 cup green peas",
+      "1 tsp ginger and garlic paste",
+      "1 tsp cumin, garam masala and coriander powder",
+      "4 cups water & salt to taste"
+    ],
+    "method2": "Soak rice in water for 30 minutes. Heat oil in a pan over medium heat. Add sliced onion and saute until golden brown. Carrot, cauliflower, and green peas. 5-minute sauté. Garlic and ginger paste. Sauté fragrantly. Cumin, coriander, and garam masala. Mix well. Drain and add the rice. Mix well. Boil water. Reduce heat and simmer for 20 minutes until rice is done. Add salt to taste. Serve with vegetables. enjoy BD food.",
+    "rating2": 4.5,
+
+    "recipe_name3": "Aloo posto",
+    "ingredients3": [
+      "4 potatoes peeled and cubed",
+      "1/4 cup poppy seeds",
+      "1 tsp turmeric powder",
+      "1 tsp cumin powder",
+      "1 tsp mustard oil",
+      "salt to taste"
+    ],
+    "method3": "Soak poppy seeds in water for 30 minutes. Drain the soaked poppy seeds and grind them into a paste. Heat oil in a pan over medium heat. Add cubed potatoes and saute for 5 minutes. Add turmeric powder, cumin powder, and salt. Mix well. Add water and bring to boil. Reduce heat and let it simmer for 20 minutes or until the rice is cooked through. Season with salt to taste.",
+    "rating3": 4.5
+  },
+
+  {
+    "id": 3,
+    "name": "Chef Hassan",
+    "image": "https://images.pexels.com/photos/4253302/pexels-photo-4253302.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "experience": 8,
+    "total_recipes": 6,
+    "likes": 2000,
+    "description": "Hassan is a renowned chef who specializes in traditional Bangladeshi cuisine. He has won many awards for his delicious dishes. He is known for his delicious popular food-inspired dishes. He has appeared on several television shows and has gained popularity for his creative takes on classic Bengali dishes. Hassan is also an advocate for sustainable cooking and often sources local, organic ingredients for his recipes.",
+
+    "recipe_name1": "Biryani",
+    "ingredients1": [
+      "1 kg basmati rice",
+      "1 kg chicken, cut into pieces",
+      "2 cups yogurt",
+      "3 onions (sliced)",
+      "4 tablespoons ghee",
+      "Salt and water"
+    ],
+    "method1": "Cook the rice until it is half done. Fry the onions until golden brown and set aside. Marinate the chicken in yogurt and spices. In a large pot, layer the rice, chicken, and fried onions. Add ghee, saffron, and water. Mix well. Drain the soaked rice and add it to the pan. Add water and bring to boil. Reduce heat and let it simmer for 20 minutes or until the rice is cooked through.",
+    "rating1": 4.5,
+
+    "recipe_name2": "Shorshe Ilish",
+    "ingredients2": [
+      "4 pieces of ilish fish",
+      "2 tablespoons mustard paste",
+      "1 tablespoon turmeric and red chili powder",
+      "3 tbsp Mustard seeds",
+      "2 Green chillies",
+      "1 teaspoon salt"
+    ],
+    "method2": "Fried fish marinated in mustard paste, turmeric, and salt. The gravy is made by cooking mustard seeds, green chillies, turmeric powder, red chilli powder (optional), salt, and mustard oil with onions, ginger paste, garlic paste, cumin powder, coriander powder, water, salt, and sugar (optional). After the gravy thickens, the fried fish is added and cooked on low heat for a few minutes.  This dish's unusual tangy-spicy flavour will delight your taste buds.",
+    "rating2": 4.8,
+
+    "recipe_name3": "Rasmalai",
+    "ingredients3": [
+      "1 liter milk",
+      "1/4 cup vinegar",
+      "1 cup sugar",
+      "4 cups water",
+      "1/2 teaspoon cardamom powder",
+      "Flavor (optional)"
+    ],
+    "method3": "Prepare the cheese balls by combining milk, vinegar, and flour. Knead the mixture until it forms a dough, then shape it into small balls. Boil the balls in a mixture of water and sugar until they are cooked through. In another pot, heat milk, sugar, and cardamom until boiling. Add the cooked cheese balls to the milky mixture and let them soak for an hour or so. Garnish with chopped nuts and serve chilled.",
+    "rating3": 4.7
+  },
+
+  {
+    "id": 4,
+    "name": "Chef Aisha",
+    "image": "https://images.pexels.com/photos/4057693/pexels-photo-4057693.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "experience": 26,
+    "total_recipes": 16,
+    "likes": 3000,
+    "description": "Aisha is awarded, which specializes in fusion cuisine that combines traditional Bangladeshi flavours with modern techniques. She is the most experienced chef in Bengal Chef. Her recipes are unique as always. She is working in several other successful restaurants around the world. Dhaka Food is renowned for its innovative take on contemporary Dhaka cuisine, blending traditional flavours with modern techniques.",
+
+    "recipe_name1": "Dhaka Burger",
+    "ingredients1": [
+      "500 grams ground beef",
+      "1/2 cup bread crumbs",
+      "1 egg",
+      "Green chilli",
+      "1 onion finely (chopped)",
+      "1 tablespoon soy sauce"
+    ],
+    "method1": "Mix all of the ingredients before shaping them into patties. Grill the meat until it is completely done. Place on a bun and garnish with tomato, lettuce, and mayonnaise before serving. Combine a variety of spices, onion, chilli, and coriander leaves with ground beef. Make the mixture into patties, and then grill them until they are fully done. Place on buns and garnish with chutney and chopped onions before serving. Serve with salad and sauce.",
+    "rating1": 4.6,
+
+    "recipe_name2": "Fish Curry",
+    "ingredients2": [
+      "4 pieces of catfish",
+      "1 onion (sliced)",
+      "2 tomatoes (chopped)",
+      "2 teaspoons ginger paste",
+      "2 teaspoons garlic paste",
+      "salt and water"
+    ],
+    "method2": "Sauté chopped onions in oil until transparent. Fry minced garlic, grated ginger, and slit green chilli in the pan until the raw smell vanishes. Mix cumin, coriander, turmeric, and red chilli powder in the pan. Boil water in the pan. Carefully add the fish pieces to the gravy and cook for 5-7 minutes on low heat until soft and cooked through. After turning off the heat, garnish with fresh coriander leaves. Hot rice.",
+    "rating2": 4.3,
+
+    "recipe_name3": "Kacchi Biryani",
+    "ingredients3": [
+      "1 kg basmati rice",
+      "1 kg beef, cut into pieces",
+      "2 cups yogurt",
+      "3 onions (sliced)",
+      "4 tablespoons ghee",
+      "Saffron and milk"
+    ],
+    "method3": "Rinse and soak basmati rice in cold water for 20 to 30 minutes. In a large pot, sauté onions and entire spices in ghee till golden brown. Fry marinated meat till browned. Add enough water to cover the meat and simmer until cooked. Saffron, milk, and soaked rice. Mix and cook. Add heated water until it covers the rice and meat. Cook the rice on low heat with a tight-fitting lid until fluffy.",
+    "rating3": 4.9
+  },
+
+  {
+    "id": 5,
+    "name": "Chef Ali",
+    "image": "https://images.pexels.com/photos/3338675/pexels-photo-3338675.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "experience": 10,
+    "total_recipes": 7,
+    "likes": 1500,
+    "description": "Ali is a seasoned cook who excels at preparing fiery cuisine. who is famous for making great meals based on street food? He's been on a few different shows, and his unique spins on traditional Bengali fare have won him a lot of fans. Sustainable cooking is important to Ali, therefore she uses local, organic products whenever possible in her dishes.",
+
+    "recipe_name1": "Chana masala",
+    "ingredients1": [
+      "1 can chickpeas",
+      "1 onion, 2 garlic, 1/4 cup cilantro (chopped)",
+      "1 tsp ginger paste, salt and pepper",
+      "1 tsp cumin  & garam masala",
+      "1 tsp coriander powder",
+      "1 cup tomato sauce"
+    ],
+    "method1": "Heat oil in a pan over medium heat. Add chopped onion and minced garlic. Saute until soft. Add ginger paste and saute until fragrant. Add cumin powder and coriander powder. Mix well. Add chickpeas and coat with spices. Add tomato sauce and bring to boil. Reduce heat and let it simmer for 10 minutes or until the sauce thickens. Add garam masala and cilantro. Mix well. Season with salt and pepper to taste.",
+    "rating1": 4.7,
+
+    "recipe_name3": "Vegetable biryani",
+    "ingredients3": [
+      "2 cups basmati rice",
+      "1 small cauliflower, 1 onion, chopped",
+      "1/2 cup green peas",
+      "1 tsp ginger and garlic paste",
+      "1 tsp cumin, garam masala and coriander powder",
+      "4 cups water & salt to taste"
+    ],
+    "method3": "Soak rice in water for 30 minutes. Heat oil in a pan over medium heat. Add sliced onion and saute until golden brown. Carrot, cauliflower, and green peas. 5-minute sauté. Garlic and ginger paste. Sauté fragrantly. Cumin, coriander, and garam masala. Mix well. Drain and add the rice. Mix well. Boil water. Reduce heat and simmer for 20 minutes until rice is done. Add salt to taste. Serve with vegetables. enjoy BD food.",
+    "rating3": 4.5,
+
+    "recipe_name2": "Beef kebab",
+    "ingredients2": [
+      "1 lb ground beef",
+      "1 onion grated",
+      "1 tsp garlic and ginger paste",
+      "1 tsp cumin powder",
+      "1 tsp coriander powder",
+      "salt and pepper to taste"
+    ],
+    "method2": "Prepare a grill for high heat by preheating it. Combine one pound of ground beef, one grated onion, ginger paste, garlic paste, cumin powder, coriander powder, salt, and pepper in a bowl and mix well. After forming the mixture into tiny patties or balls, set them on the grill and cook them for approximately 5-7 minutes per side, or until they are fully cooked through. To be served hot with salad and sauce.",
+    "rating2": 4.6
+  },
+
+  {
+    "id": 6,
+    "name": "Chef Naiem",
+    "image": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=377&q=80",
+    "experience": 8,
+    "total_recipes": 5,
+    "likes": 800,
+    "description": "Naiem is a well-known chef who has made a name for himself by perfecting authentic Bangladeshi dishes. Since he was 14 years old, he's been cooking professionally, and his meals have received numerous accolades. He has made a name for himself in the food business. His creative fusion dishes, which feature both modern cooking techniques and traditional Bangladeshi ingredients, have earned him acclaim.",
+
+    "recipe_name1": "Kalabhuna",
+    "ingredients1": [
+      "500g beef, cut into small cubes",
+      "1 onion, 2 garlic, vegetable oil",
+      "1 tsp ginger grated",
+      "1/2 tsp cumin powder",
+      "1/2 tsp turmeric and coriander powder",
+      "Fresh cilantro leaves (for garnish)"
+    ],
+    "method1": "Medium-heat oil. Chopped onions. Garlic with ginger. Stir occasionally for 1 to2 minutes. Cumin, coriander, turmeric, and red chili powder (if using). Stir and cook another minute. Toss steak in the pan to coat with spices. Brown the meat on all sides in 5-7 minutes. Cover the beef with water and salt to taste. Cover the pan and simmer the meat over low heat for 30-40 minutes until cooked. Serve hot with rice or bread.",
+    "rating1": 4.5,
+
+    "recipe_name2": "Shorshe Ilish",
+    "ingredients2": [
+      "4 pieces of ilish fish",
+      "2 tablespoons mustard paste",
+      "1 tablespoon turmeric and red chili powder",
+      "3 tbsp Mustard seeds",
+      "2 Green chillies",
+      "1 teaspoon salt"
+    ],
+    "method2": "Fried fish marinated in mustard paste, turmeric, and salt. The gravy is made by cooking mustard seeds, green chillies, turmeric powder, red chilli powder (optional), salt, and mustard oil with onions, ginger paste, garlic paste, cumin powder, coriander powder, water, salt, and sugar (optional). After the gravy thickens, the fried fish is added and cooked on low heat for a few minutes.  This dish's unusual tangy-spicy flavour will delight your taste buds.",
+    "rating2": 4.8,
+
+    "recipe_name3": "Rasmalai",
+    "ingredients3": [
+      "1 liter milk",
+      "1/4 cup vinegar",
+      "1 cup sugar",
+      "4 cups water",
+      "1/2 teaspoon cardamom powder",
+      "Flavor (optional)"
+    ],
+    "method3": "Prepare the cheese balls by combining milk, vinegar, and flour. Knead the mixture until it forms a dough, then shape it into small balls. Boil the balls in a mixture of water and sugar until they are cooked through. In another pot, heat milk, sugar, and cardamom until boiling. Add the cooked cheese balls to the milky mixture and let them soak for an hour or so. Garnish with chopped nuts and serve chilled.",
+    "rating3": 4.7
+  }
+]

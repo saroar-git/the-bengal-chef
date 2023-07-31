@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Chef Ahmed",
+    "image": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "experience": 15,
+    "recipes": 9,
+    "likes": 1000
+  },
+  {
+    "id": 2,
+    "name": "Chef Fatima",
+    "image": "https://images.pexels.com/photos/6578899/pexels-photo-6578899.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "experience": 9,
+    "recipes": 4,
+    "likes": 500
+  },
+  {
+    "id": 3,
+    "name": "Chef Hassan",
+    "image": "https://images.pexels.com/photos/4253302/pexels-photo-4253302.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "experience": 8,
+    "recipes": 6,
+    "likes": 2000
+  },
+  {
+    "id": 4,
+    "name": "Chef Aisha",
+    "image": "https://images.pexels.com/photos/4057693/pexels-photo-4057693.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "experience": 26,
+    "recipes": 16,
+    "likes": 3000
+  },
+  {
+    "id": 5,
+    "name": "Chef Ali",
+    "image": "https://images.pexels.com/photos/3338675/pexels-photo-3338675.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "experience": 10,
+    "recipes": 7,
+    "likes": 1500
+  },
+  {
+    "id": 6,
+    "name": "Chef Naiem",
+    "image": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=377&q=80",
+    "experience": 8,
+    "recipes": 5,
+    "likes": 800
+  }
+]
