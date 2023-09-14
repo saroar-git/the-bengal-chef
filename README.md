@@ -46,6 +46,4 @@ Bengal Chef is a food recipes website where user can have some recipes, see tren
 
 - User can contact us, see our collaborative websites into the footer.
 
-### Live Website link:
-
-- https://the-bengal-chef.web.app/
+### Live Website link: [The Bengal Chef](https://the-bengal-chef.web.app/)
